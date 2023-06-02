@@ -5,7 +5,6 @@
 struct Node{
     int value;
     struct Node* next;
-    struct doubleNode* prev;
 };
 
 
